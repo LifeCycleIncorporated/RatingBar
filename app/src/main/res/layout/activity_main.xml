@@ -8,6 +8,12 @@
     android:gravity="center_horizontal"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rating Bar"
+        android:layout_marginTop="20dp"/>
+
     <RatingBar
         android:id="@+id/ratingBarId"
         android:layout_marginTop="50dp"
