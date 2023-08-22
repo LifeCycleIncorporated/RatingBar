@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Rating Bar</string>
+    <string name="ratingBerText">Rating Bar</string>
 </resources>
